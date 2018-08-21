@@ -1,0 +1,13 @@
+{
+  "name": "hubspot-template-parser",
+  "version": "1.0.0",
+  "description": "A simple parser to automatically create Hubspot templates using HubL's custom modules from plain HTML files",
+  "main": "index.js",
+  "repository": "https://github.com/jlozovei/hubspot-template-parser.git",
+  "author": "Julio Lozovei <jlozovei@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^12.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
